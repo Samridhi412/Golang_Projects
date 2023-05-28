@@ -1,0 +1,12 @@
+{
+	"Name": "Charlie",
+	"Age": 29,
+	"Contact": "abcd4",
+	"Company": "abcd4",
+	"Address": {
+		"City": "bang",
+		"State": "karnatka",
+		"Country": "india",
+		"Pincode": 410023
+	}
+}

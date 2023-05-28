@@ -1,0 +1,12 @@
+{
+	"Name": "Ande",
+	"Age": 26,
+	"Contact": "abcd2",
+	"Company": "abcd2",
+	"Address": {
+		"City": "bang",
+		"State": "karnatka",
+		"Country": "india",
+		"Pincode": 410023
+	}
+}
